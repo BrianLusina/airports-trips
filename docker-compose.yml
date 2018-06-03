@@ -38,7 +38,7 @@ services:
                         RABBIT_HOST: "rabbit"
                         RABBIT_PORT: "5672"
 
-       gateway:
+        gateway:
                build:
                        context: "gateway"
                depends_on:
@@ -51,5 +51,4 @@ services:
                        RABBIT_HOST: "rabbit"
                        RABBIT_PORT: "5672"
 volumes:
-        redis-data
-
+        redis-data:
