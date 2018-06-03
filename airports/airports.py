@@ -4,7 +4,7 @@ from nameko_redis import Redis
 
 
 class AirportService(object):
-    name = "aiport_service"
+    name = "aiports_service"
 
     redis = Redis("development")
 
