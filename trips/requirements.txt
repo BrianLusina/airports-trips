@@ -1,11 +1,12 @@
 -i https://pypi.python.org/simple/
 amqp==1.4.9
 anyjson==0.3.3
-certifi==2020.12.5
+certifi==2021.5.30
 chardet==4.0.0
+dataclasses==0.8 ; python_version < '3.7'
 enum-compat==0.0.3
-eventlet==0.31.0
-greenlet==1.0.0
+eventlet==0.21.0
+greenlet==1.1.0
 idna==2.10
 kombu==3.0.37
 mock==4.0.3
@@ -13,10 +14,10 @@ nameko-redis==1.1.0
 nameko==2.9.0
 path.py==12.5.0
 path==15.1.2
-pyyaml==5.4
+pyyaml==5.4.1
 redis==3.5.3
 requests==2.25.1
-six==1.15.0
-urllib3==1.26.4
-werkzeug==1.0.1
+six==1.16.0
+urllib3==1.26.5
+werkzeug==2.0.1
 wrapt==1.12.1
