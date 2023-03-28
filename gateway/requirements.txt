@@ -12,7 +12,7 @@ nameko==2.14.0
 path.py==11.0.1
 pbr==4.0.3
 pyyaml==5.4
-redis==2.10.6
+redis==4.3.6
 requests==2.20
 six==1.11.0
 urllib3==1.26.5
