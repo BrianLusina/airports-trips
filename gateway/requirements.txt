@@ -13,7 +13,7 @@ path.py==11.0.1
 pbr==4.0.3
 pyyaml==5.4
 redis==4.3.6
-requests==2.20
+requests==2.31.0
 six==1.11.0
 urllib3==1.26.5
 werkzeug==2.2.3
