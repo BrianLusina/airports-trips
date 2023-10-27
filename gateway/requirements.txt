@@ -15,6 +15,6 @@ pyyaml==5.4
 redis==4.3.6
 requests==2.31.0
 six==1.11.0
-urllib3==1.26.17
+urllib3==1.26.18
 werkzeug==2.2.3
 wrapt==1.10.11
