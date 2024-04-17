@@ -5,7 +5,7 @@ chardet==3.0.4
 enum-compat==0.0.2
 eventlet==0.34.3
 greenlet==0.4.13
-idna==2.6
+idna==3.7
 kombu==3.0.37
 mock==2.0.0
 nameko==2.14.0
