@@ -1,6 +1,6 @@
 amqp==1.4.9
 anyjson==0.3.3
-certifi==2023.7.22
+certifi==2024.7.4
 chardet==3.0.4
 enum-compat==0.0.2
 eventlet==0.34.3
@@ -19,3 +19,4 @@ urllib3==1.26.18
 werkzeug==3.0.1
 wrapt==1.10.11
 dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
